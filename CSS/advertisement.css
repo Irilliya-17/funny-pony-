@@ -1,0 +1,33 @@
+        header {
+            white-space: pre; 
+            display: flex;
+            align-items: flex-start;
+            height: 3cm;
+            font: 1em sans-serif;
+        }
+
+        body {
+            background-color: brown;
+        }
+
+        .elements {
+            display: inline-flex;
+            justify-content: space-between;
+            width: 36cm;
+            height: 20cm;
+        }
+        
+        .big {
+            position: relative;
+            bottom: 2cm;
+            width: 10cm;
+            height: 10cm;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 200%;
+            background-color:aquamarine;
+        }
+
+       
+
+        
+    

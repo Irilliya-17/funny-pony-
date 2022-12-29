@@ -1,0 +1,22 @@
+header {
+    white-space: pre;
+    display: flex;
+    align-items: flex-start;
+    height: 3cm;
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1667239007438-fd41d5a839d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80); bottom: no-repeat;
+    background-size: cover;
+    width: 1100px; 
+}
+
+main {
+    position: relative;
+    width: 100%;
+    height: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+    color: blueviolet;
+    
+    }
